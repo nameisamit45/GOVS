@@ -122,12 +122,6 @@ This system adheres to:
 - **ISO/IEC 30113-1:2025** (Gesture-based interface)
 - **ISO/IEC 25010** (System & Software Quality Model)
 
----
-
-## 📷 Screenshots
-
-![System Architecture](images/system_diagram.png)
-*(Add your own diagrams or screenshots here)*
 
 ---
 
